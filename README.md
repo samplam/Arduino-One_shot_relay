@@ -1,5 +1,5 @@
 # Arduino-One_shot_relay
-A simple program to send a 1 sec pulse after pressing a button.
+A simple program to send a 1 sec pulse after an input state change.
 
 ## Overview
 This project is an Arduino-based that I made to simulate a 1 sec power ON button press on a motherboard. It's essentially an interface between a generic IR programmable receiver board that was latching a relay on each IR remote button press and a standard motherboard. It was for a remote power ON application with an Attiny85 microcontroller.
