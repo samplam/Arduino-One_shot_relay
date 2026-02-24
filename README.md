@@ -14,9 +14,9 @@ This project is an Arduino-based that I made to simulate a 1 sec power ON button
 
 ## Usage
 1. Open `One_shot_relay.ino` in Arduino IDE  
-2. Connect the input and output as per requirements
-3. Upload to the Arduino board  
+2. Upload to the Arduino board
+3. Connect the input and output as per requirements
 4. Test the program
 
 ## Notes
-- Written before my formal IT studies; shows structured code and practical electronics knowledge
+- Written around 2014 before my formal IT studies; shows structured code and practical electronics knowledge
